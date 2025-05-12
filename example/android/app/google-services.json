@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "622377145851",
+    "project_id": "smarty-iot",
+    "storage_bucket": "smarty-iot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622377145851:android:c6f433b0d1a71a9488e75e",
+        "android_client_info": {
+          "package_name": "tech.mastersam.smarty"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXTUAVmnxtv3QhgcribBJ8NMw6BSpfxyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

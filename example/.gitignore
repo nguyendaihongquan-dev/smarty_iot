@@ -47,3 +47,6 @@ app.*.map.json
 *.jks
 coverage/
 .DS_Store
+
+# FVM Version Cache
+.fvm/
